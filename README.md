@@ -1,6 +1,4 @@
-<snippet>
-  <content><![CDATA[
-# ${1:Uber Hello World}
+# Uber Hello World}
 
 Commit your uber hello world and help anyone out there looking to learn coding and computer thinking. Make this Hello World version your program to show your skills and creativity. We showcase your contributions in [Hello World 4 Kids](http://www.helloworld4kids.com/) enabling kids to learn coding and software developmetn skills.
 
@@ -25,9 +23,8 @@ This Hello World version must have the native functionality of the "Hello World"
 4. Push to the branch: `git push origin my-uber-helloworld`
 5. Submit a pull request :D
 
-## License
+## Contact
+#### Gloria Lastra
+* Homepage: www.uberhelloworld.com
+* e-mail: gilandcat@gmail.com
 
-TODO: Write license
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
