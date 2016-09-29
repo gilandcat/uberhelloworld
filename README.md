@@ -27,6 +27,6 @@ This Hello World version must have the native functionality of the "Hello World"
 #### Gloria Lastra
 
 * Developers page: www.uberhelloworld.com
-* Kids page: www.helloworld.com
+* Kids page: www.helloworld4kids.com
 * e-mail: gilandcat@gmail.com
 
