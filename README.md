@@ -1,4 +1,4 @@
-# Uber Hello World}
+# Uber Hello World
 
 Commit your uber hello world and help anyone out there looking to learn coding and computer thinking. Make this Hello World version your program to show your skills and creativity. We showcase your contributions in [Hello World 4 Kids](http://www.helloworld4kids.com/) enabling kids to learn coding and software developmetn skills.
 
